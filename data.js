@@ -33,26 +33,26 @@ var APP_DATA = {
         {
           "yaw": 2.9700130566953042,
           "pitch": 0.03144444849631789,
-          "title": "CulinaryIntro",
-          "text": "<iframe src="https://drive.google.com/file/d/1Ho_VSBzVyp3dOkxFkEbrup1N5XvEEipP/preview" width="640" height="480"></iframe>"
+          "title": "Culinary Intro",
+          "text": '<iframe src="https://drive.google.com/file/d/1Ho_VSBzVyp3dOkxFkEbrup1N5XvEEipP/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -2.901808864472132,
           "pitch": 0.12442582024436177,
-          "title": "Culinary2",
-          "text": "<iframe src="https://drive.google.com/file/d/1HeGwRg_jjpRvyb0sw3ZlNsHEomKTpnmJ/preview" width="640" height="480"></iframe>"
+          "title": "Culinary 1",
+          "text": '<iframe src="https://drive.google.com/file/d/1HeGwRg_jjpRvyb0sw3ZlNsHEomKTpnmJ/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -2.1199722995206827,
           "pitch": 0.18932177253843463,
-          "title": "Culinary3",
-          "text": "<iframe src="https://drive.google.com/file/d/1Hhm2KLcJkJPZht9kxP_G6a0PpveVixhT/preview" width="640" height="480"></iframe>"
+          "title": "Culinary 2",
+          "text": '<iframe src="https://drive.google.com/file/d/1Hhm2KLcJkJPZht9kxP_G6a0PpveVixhT/preview" width="640" height="480"></iframe>'
         },
         {
           "yaw": -1.0263543978698113,
           "pitch": -0.10429478635644429,
-          "title": "Culinary4",
-          "text": "<iframe src="https://drive.google.com/file/d/1Hi8yF_hYMwc6KH8J3mY2j_2kNCwutg2i/preview" width="640" height="480"></iframe>"
+          "title": "Culinary 3",
+          "text": '<iframe src="https://drive.google.com/file/d/1Hi8yF_hYMwc6KH8J3mY2j_2kNCwutg2i/preview" width="640" height="480"></iframe>'
         }
       ]
     }
